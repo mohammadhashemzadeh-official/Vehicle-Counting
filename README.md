@@ -10,11 +10,7 @@ This project detects and counts vehicles (cars, buses, trucks, and motorbikes) m
 
 **Figure 1**
 
-![Figure 1](./screenshots/fig_1.png)
-
-**Figure 2**
-
-![Figure 2](./screenshots/fig_2.png)
+![Figure 1](./screenshots/fig_2.png)
 
 ## Features
 
